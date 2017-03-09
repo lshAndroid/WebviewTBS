@@ -21,3 +21,7 @@ Adndroid webviewTBS is Custom webview library,non-Google comes with* **支持全
 <img src="https://github.com/lshAndroid/WebviewTBS/blob/master/git1.gif" width="200px" height="480px"/>
 <img src="https://github.com/lshAndroid/WebviewTBS/blob/master/git2.gif" width="400px" height="400px"/>
 <img src="https://github.com/lshAndroid/WebviewTBS/blob/master/git3.gif" width="400px" height="400px"/>
+
+--------------------------------------------------------------------------------
+
+如果有用请star，谢谢！！
